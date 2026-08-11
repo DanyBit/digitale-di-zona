@@ -44,3 +44,19 @@ Il sito è una landing page statica realizzata con:
 ---
 
 **Digitale di Zona · Cantù e dintorni**
+
+
+
+# Demo aggiuntive — Digitale di Zona
+
+Questo pacchetto contiene le quattro demo restanti e una pagina indice per il portfolio.
+
+Percorsi dopo il caricamento nel repository:
+- `/demo/parrucchiere/`
+- `/demo/estetica/`
+- `/demo/arredamento/`
+- `/demo/officina/`
+- `/demo/` — pagina riepilogo di tutte le demo, inclusa la pizzeria già presente nel repository.
+
+Tutti i nomi, prezzi, recensioni, contatti e progetti mostrati nelle demo sono fittizi e dichiarati come concept dimostrativi.
+
