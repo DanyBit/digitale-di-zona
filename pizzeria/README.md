@@ -12,6 +12,6 @@ nel repository `digitale-di-zona`.
 
 L'URL risultante sarà indicativamente:
 
-`https://danybit.github.io/digitale-di-zona/demo/pizzeria/`
+`https://danybit.github.io/digitale-di-zona/pizzeria/`
 
 > Il progetto usa solo HTML, CSS e asset SVG locali. Nessuna dipendenza esterna.
